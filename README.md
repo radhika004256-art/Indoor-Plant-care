@@ -8,7 +8,7 @@ tips for caring
 care guides
 
 # Built with 
-HTML
+HTML ,
 CSS
 # AI usage
 i have just used the ai to ask my mistakes
