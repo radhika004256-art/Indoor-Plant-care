@@ -7,3 +7,5 @@ care guides
 # Built with 
 HTML
 CSS
+# AI
+i have just used the ai to to ask my mistakes
